@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="sf_id" label="SF Id" language="en" table="x_695007_test_task">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>sf_id</element>
+            <help/>
+            <hint/>
+            <label>SF Id</label>
+            <language>en</language>
+            <name>x_695007_test_task</name>
+            <plural>SF Ids</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-13 16:01:33</sys_created_on>
+            <sys_id>0431c5421b663010e8bf40c6cc4bcb52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>SF Id</sys_name>
+            <sys_package display_value="Test" source="x_695007_test">65b0cd021b663010e8bf40c6cc4bcbf7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test">65b0cd021b663010e8bf40c6cc4bcbf7</sys_scope>
+            <sys_update_name>sys_documentation_x_695007_test_task_sf_id_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-13 16:01:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

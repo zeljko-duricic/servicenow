@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Task" max_length="40" name="x_695007_test_task" sizeclass="0" type="collection">
+        <element label="SF Id" max_length="40" name="sf_id" type="string"/>
+    </element>
+</database>
