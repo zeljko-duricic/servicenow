@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Task" max_length="40" name="x_695007_test_task" sizeclass="0" type="collection">
         <element label="SF Id" max_length="40" name="sf_id" type="string"/>
+        <element choice="1" default="true" display="true" label="Button" max_length="40" name="button" type="choice">
+            <choice>
+                <element hint="Hint" inactive_on_update="false"/>
+                <element inactive_on_update="false" label="true" value="true"/>
+            </choice>
+        </element>
     </element>
 </database>
